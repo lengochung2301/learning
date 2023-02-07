@@ -89,5 +89,39 @@ int main()
     printf("\n%.2lf", updatedSalary);
 
     return 0;
+
+
+     /// mảng array
+/*
+int numbers[5] = {1,2,3,4,5};
+ten mang la numbers
+kieu du lieu la int 
+kcih thuo9c cua mang la [5]
+cac phan tu cua mang duoc viet trong ngoac nhon {1,2,3,4,5}
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
 }
