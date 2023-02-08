@@ -7,8 +7,6 @@ chúng tôi sử dụng //cho các bình luận ngắn và /* */
 
 
 
-*/
-
 int main() {
   printf("Hello World!");
   return 0;

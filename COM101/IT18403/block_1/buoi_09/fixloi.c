@@ -1,14 +1,14 @@
 #include <stdio.h>
 int main()
 {
-    int arrNumbers[] = {1, 2, 3, 4, 6.5};
-    printf("%d \n", arrNumbers[2]);
+    float arrNumbers[] = {1, 2, 3, 4, 6.5};
+    printf("%f \n", arrNumbers[2]);
     float arrDiemTB[] = {6.5, 7, 8, 9, 9.4};
     // 6.5--index =0 tai vi tri thu nhat
     // in ra tat ca cac gia tri
     for (int i = 0; i < 4; i++)
     {
-        printf("%d\n", arrNumbers[i]);
+        printf("%f\n", arrNumbers[i]);
     }
 
     // nhap mot mamg
@@ -40,7 +40,7 @@ int main()
     }
     printf("tong cac gia tri cua mang la : %lf", tong);
 
-
+ 
     {
         int i, number;
         printf("Nhap so phan tu cua mang: ");
